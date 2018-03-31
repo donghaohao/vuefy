@@ -1,0 +1,5 @@
+<view>{{ test.a }}</view>
+<view>{{ test1 }}</view>
+<view>{{ test2 }}</view>
+<view>{{ test3 }}</view>
+<button bindtap="changeTest">change</button>
